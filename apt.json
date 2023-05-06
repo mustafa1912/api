@@ -1,0 +1,215 @@
+{
+      "issuer": {
+        "address": {
+          "branchID": "0",
+          "country": "EG",
+          "governate": "القاهرة",
+          "regionCity": "قسم المقطم",
+          "street": "قطعه 9254 منطقه جنوب شارع هدى شعراوى المقطم",
+          "buildingNumber": "0",
+          "postalCode": null,
+          "floor": null,
+          "room": null,
+          "landmark": null,
+          "additionalInformation": " "
+        },
+        "type": "B",
+        "id": "526163054",
+        "name": "شركه دى ام دبليو ايجيبت"
+      },
+      "receiver": {
+        "address": {
+          "country": "EG",
+          "governate": "المنوفية",
+          "regionCity": "مركز منوف",
+          "street": "ش بور سعيد بجوار مجلس المدينه منوف المنوفيه",
+          "buildingNumber": "0",
+          "postalCode": "",
+          "floor": null,
+          "room": null,
+          "landmark": null,
+          "additionalInformation": " "
+        },
+        "type": "B",
+        "id": "555265455",
+        "name": "مستشفي الرواد التخصصي الجديده"
+      },
+      "documentType": "i",
+      "dateTimeIssued": "2022-12-31T14:14:54Z",
+      "internalID": "20220639",
+      "payment": {},
+      "delivery": {},
+      "invoiceLines": [
+        {
+          "description": "Simpass Plus PTCA Balloon 1.50 x 20",
+          "itemType": "EGS",
+          "itemCode": "EG-526163054-PS",
+          "unitType": "EA",
+          "quantity": 1,
+          "internalCode": "",
+          "salesTotal": 877.19298,
+          "total": 1000,
+          "valueDifference": 0,
+          "totalTaxableFees": 0,
+          "netTotal": 877.19298,
+          "itemsDiscount": 0,
+          "unitValue": {
+            "currencySold": "EGP",
+            "amountEGP": 877.19298
+          },
+          "discount": {
+            "rate": 0,
+            "amount": 0
+          },
+          "taxableItems": [
+            {
+              "taxType": "T1",
+              "amount": 122.80702,
+              "subType": "V009",
+              "rate": 14
+            }
+          ]
+        },
+        {
+          "description": "Simpass NC/HP RX PTCA Balloon 2.75 x 20",
+          "itemType": "EGS",
+          "itemCode": "EG-526163054-SNC",
+          "unitType": "EA",
+          "quantity": 1,
+          "internalCode": "",
+          "salesTotal": 964.91228,
+          "total": 1100,
+          "valueDifference": 0,
+          "totalTaxableFees": 0,
+          "netTotal": 964.91228,
+          "itemsDiscount": 0,
+          "unitValue": {
+            "currencySold": "EGP",
+            "amountEGP": 964.91228
+          },
+          "discount": {
+            "rate": 0,
+            "amount": 0
+          },
+          "taxableItems": [
+            {
+              "taxType": "T1",
+              "amount": 135.08772,
+              "subType": "V009",
+              "rate": 14
+            }
+          ]
+        },
+        {
+          "description": "Simpass NC/HP RX PTCA Balloon 3.00 x 15",
+          "itemType": "EGS",
+          "itemCode": "EG-526163054-SNC",
+          "unitType": "EA",
+          "quantity": 3,
+          "internalCode": "",
+          "salesTotal": 2894.73684,
+          "total": 3300,
+          "valueDifference": 0,
+          "totalTaxableFees": 0,
+          "netTotal": 2894.73684,
+          "itemsDiscount": 0,
+          "unitValue": {
+            "currencySold": "EGP",
+            "amountEGP": 964.91228
+          },
+          "discount": {
+            "rate": 0,
+            "amount": 0
+          },
+          "taxableItems": [
+            {
+              "taxType": "T1",
+              "amount": 405.26316,
+              "subType": "V009",
+              "rate": 14
+            }
+          ]
+        },
+        {
+          "description": "Simpass NC/HP RX PTCA Balloon 3.00 x 20",
+          "itemType": "EGS",
+          "itemCode": "EG-526163054-SNC",
+          "unitType": "EA",
+          "quantity": 2,
+          "internalCode": "",
+          "salesTotal": 1929.82456,
+          "total": 2200,
+          "valueDifference": 0,
+          "totalTaxableFees": 0,
+          "netTotal": 1929.82456,
+          "itemsDiscount": 0,
+          "unitValue": {
+            "currencySold": "EGP",
+            "amountEGP": 964.91228
+          },
+          "discount": {
+            "rate": 0,
+            "amount": 0
+          },
+          "taxableItems": [
+            {
+              "taxType": "T1",
+              "amount": 270.17544,
+              "subType": "V009",
+              "rate": 14
+            }
+          ]
+        },
+        {
+          "description": "Simpass NC/HP RX PTCA Balloon 4.00 x 20",
+          "itemType": "EGS",
+          "itemCode": "EG-526163054-SNC",
+          "unitType": "EA",
+          "quantity": 1,
+          "internalCode": "",
+          "salesTotal": 964.91228,
+          "total": 1100,
+          "valueDifference": 0,
+          "totalTaxableFees": 0,
+          "netTotal": 964.91228,
+          "itemsDiscount": 0,
+          "unitValue": {
+            "currencySold": "EGP",
+            "amountEGP": 964.91228
+          },
+          "discount": {
+            "rate": 0,
+            "amount": 0
+          },
+          "taxableItems": [
+            {
+              "taxType": "T1",
+              "amount": 135.08772,
+              "subType": "V009",
+              "rate": 14
+            }
+          ]
+        }
+      ],
+      "taxTotals": [
+        {
+          "taxType": "T1",
+          "amount": 1068.42106
+        }
+      ],
+      "signatures": [
+        {
+          "signatureType": "I",
+          "value": "MIIIdwYJKoZIhvcNAQcCoIIIaDCCCGQCAQMxDzANBglghkgBZQMEAgEFADALBgkqhkiG9w0BBwWgggWvMIIFqzCCA5OgAwIBAgIQFvLb+cGTqk8fTN19vwtY9zANBgkqhkiG9w0BAQsFADBEMQswCQYDVQQGEwJFRzEUMBIGA1UEChMLRWd5cHQgVHJ1c3QxHzAdBgNVBAMTFkVneXB0IFRydXN0IFNlYWxpbmcgQ0EwHhcNMjIwNDA0MDAwMDAwWhcNMjQwNDAzMjM1OTU5WjCB+zEYMBYGA1UEYQwPVkFURUctNTI2MTYzMDU0MRcwFQYDVQQLDA4yNjcwMTE3MTYwMzI1NzERMA8GA1UECwwIVEFYIElEIC0xJTAjBgNVBAsMHE5hdGlvbmFsIElEIC0gMjY3MDExNzE2MDMyNTcxMzAxBgNVBAoMKti02LHZg9mHINiv2Yog2KfZhSDYr9io2YTZitmIINin2YrYrNmK2KjYqjEiMCAGCSqGSIb3DQEJARYTbG9nNTJAZG13LWdyb3VwLmNvbTEzMDEGA1UEAwwq2LTYsdmD2Ycg2K/ZiiDYp9mFINiv2KjZhNmK2Ygg2KfZitis2YrYqNiqMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxNKtob2D2jMdms4e0chYSvCre8xpdWeNftmQ9BZudhufVVca1etIMcetNE/fb/zVcGPLISP+MiiicwXW92JnaIYuZo9GkSHgrAolXZEArLMnFRWqJRcQjyHTh/ifIsqskUf2SQkinbj8r3/CNY5kX+kcUyMf9U0W3NomJikPvBtAba/iVnk1TtVe0S5fFWFlX+JAlapm2XGQpnby6DOEga5s8BoP1RyuRWILhFSkh/YHjFJZJMBsJzx9B+Xu9gNF8wtBWCfMzgn7jMPnFShsOFtMaRc4Jfskci+Qky1Q47BnoeEoY6JxgLDA+Yf2hGwQ/aXUOy6dMP5Z80+aJ2BZ+QIDAQABo4HgMIHdMAkGA1UdEwQCMAAwUAYDVR0fBEkwRzBFoEOgQYY/aHR0cDovL21wa2ljcmwuZWd5cHR0cnVzdC5jb20vRWd5cHRUcnVzdFNlYWxpbmdDQS9MYXRlc3RDUkwuY3JsMAsGA1UdDwQEAwIGwDAdBgNVHQ4EFgQUdvB4RknskDqwJNRCoFCM+abkn8owHwYDVR0jBBgwFoAUteSguN50oC02x4UaZP3/GiDVCsMwEQYJYIZIAYb4QgEBBAQDAgeAMB4GA1UdEQQXMBWBE2xvZzUyQGRtdy1ncm91cC5jb20wDQYJKoZIhvcNAQELBQADggIBAK6NPmspXF4WNlFd/zKFxnA8s6I5eJlvOc/n84uykriI/kziJckib1SFhnlzYYXDodkroPy83CW6+3Z7c6zVtwwcjAdGXF6K2s98CXIzEBVUjA0dIiKroRpwUlEXWM6/CyaoQMnNUmu7t/56JnjAX6lf1m7oxXfCjNI084eNPXvxLFdHxeaevDkT7jxt/27OuXZggGLTS00qH1dlqg8PKGwYRnUN1dQHRSPTQyc1FgapGt4mSGT3+3b1vjU+i38IpImXX+ShxILrsRX7Nkh/KqhqP4BeL07G3zR9aEq4d49By70ElSmKxUOK5YDmMxkcpcrm9WApKzG8VTyJXvjbhfcxSqYYAn3k80jhSGV0U81dE6EQVkMftQYHbWyUaJDuGsw4BB54IAeq8IoMh7L8IbWvkewZBHfeEOXdfY4gOxCCcdx9qQEboiIfZ5z2w+sJjK0vMVtz/bWPXSpFupS37L41+RomwcdJs0PE8/vpzL6lWoaq2KHi5wmpSrTprNSfau0Wzpl53hVF5EiVkEJ451Y6SlgWcMLWBgiF+ugDpAdqckjRxM0L2D9FUsURwdCqY3Wr5e5xure6+AmgbN5Q/U9lnF+xJdXPSR7JLwSCPOBFRxYQ/UBDevhGHnGvMtB390RtrO4a0iLEPdxREaAKa1rpNresoI8/60NRuIZDpePgMYICjDCCAogCAQEwWDBEMQswCQYDVQQGEwJFRzEUMBIGA1UEChMLRWd5cHQgVHJ1c3QxHzAdBgNVBAMTFkVneXB0IFRydXN0IFNlYWxpbmcgQ0ECEBby2/nBk6pPH0zdfb8LWPcwDQYJYIZIAWUDBAIBBQCgggEFMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwUwHAYJKoZIhvcNAQkFMQ8XDTIyMTIzMTE0MTUyMFowLwYJKoZIhvcNAQkEMSIEIDiwKbhwK7m5d4Q2bfKhrwcppjCokahQ2tFW6b8Xvc1qMIGZBgsqhkiG9w0BCRACLzGBiTCBhjCBgzCBgAQgKRCqtP2FJnvx3iMr6woKXv6HDJ8QIWR2nFPldHU6NJowXDBIpEYwRDELMAkGA1UEBhMCRUcxFDASBgNVBAoTC0VneXB0IFRydXN0MR8wHQYDVQQDExZFZ3lwdCBUcnVzdCBTZWFsaW5nIENBAhAW8tv5wZOqTx9M3X2/C1j3MA0GCSqGSIb3DQEBCwUABIIBAC5cNSqRrOI5ENzhBXrId5JjLRoYQWNY030LmZeB+KD8LfaTTVIHMS+hPW3v2Ehlb+NlfcnH8WXSiDGn3J7dgguHR1PWOriVlW5kkC4XRAMjvppvoCh0cegzmqMFV6eJI3AXtLYiO9qM9Iwf1kM9vhNg04Sy8P0cDZf9EBrb7KCumh41b66Mx5vcbqAvwlQUow6h0NwR/LGWT8K7kDjgQx/o/yd6Xgd89bi8MsiuJpk0+sx0WIaebM2P+ul0s07iz9+wnIHnnzy5I3Ei1KXJ0l/oods/05rc27vjafsSygt/6Nj7k1f1CNMbpAt2MYbuFStG/OkjAObLADcoa0Vj2XY="
+        }
+      ],
+      "references": [],
+      "taxpayerActivityCode": "8610",
+      "documentTypeVersion": "1.0",
+      "totalDiscountAmount": 0,
+      "totalSalesAmount": 7631.57894,
+      "netAmount": 7631.57894,
+      "totalAmount": 8700,
+      "extraDiscountAmount": 0,
+      "totalItemsDiscountAmount": 0
+    }
